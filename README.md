@@ -1,8 +1,12 @@
 # Deep_Learning
 This repository contains few assignments I did in Deep Learning
 
-Homework 1: Python and NumPy exercises
-Homework 2: Implement SVM and Softmax classifier
-Homework 3: Neural Network Classifier
-Homework 4: Optimization Methods
-Homework 5: CNN using TensorFlow
+__Homework 1:__ Python and NumPy exercises
+
+__Homework 2:__ Implement SVM and Softmax classifier
+
+__Homework 3:__ Neural Network Classifier
+
+__Homework 4:__ Optimization Methods
+
+__Homework 5:__ CNN using TensorFlow
